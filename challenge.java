@@ -9,7 +9,7 @@ class GFG {
         // enter name/url pair
         gfg.put("GFG", "geeksforgeeks.org");
         gfg.put("Practice", "practice.geeksforgeeks.org");
-        gfg.put("Code", "code.geeksforgeeks.org");
+  //      gfg.put("Code", "code.geeksforgeeks.org");
         gfg.put("Quiz", "quiz.geeksforgeeks.org");
           
         // using for-each loop for iteration over Map.entrySet()
